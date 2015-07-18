@@ -44,7 +44,7 @@ var myString = "I love Dev Mountain";
 
 
 // 5- Bind to a variable a substring that goes from the second character to the seventh
-// Use .substring or .slice()
+// Use .substring() or .slice()
 
 
 // 6- Split myString into an array of words and bind the result to a variable
@@ -67,7 +67,7 @@ var b = a;
 a += 1;
 
 
-// 10- to what eveluates yy after these three lines of code? {a:1} or {a:1, b:2}? Why?
+// 10- To what eveluates yy after these three lines of code? {a:1} or {a:1, b:2}? Why?
 var xx = { a: 1 };
 var yy = xx;
 xx.b = 2;
