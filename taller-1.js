@@ -159,6 +159,7 @@ var p = { a: 1, b: "hello", c: [1, 2, 3], d: function () { return "goodbye!"; } 
 // 21- Add a property "email" with a value "myemail@gmail.com" to the following object:
 var erik = { name: "Erik", age: 19 };
 
+
 // 22- Add to erik the property "happy with his code" with a value of true
 
 
