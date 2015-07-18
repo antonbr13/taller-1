@@ -226,7 +226,7 @@ var hi = ["h", "e", "l", "l", "o"];
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].filter(/* pass me a function */);
 
 
-// 36- Using .filter() return a new array with the values in [1, 25, 3, 14, 10] that are greater than 10.
+// 36- Using .filter() obtain a new array with the values in [1, 25, 3, 14, 10] that are greater than 10
 
 
 // 37- Create a function mult, which takes two integers, and RETURNS the numbers multiplied by each other
