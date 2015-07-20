@@ -7,7 +7,7 @@
 var types = [5, "hi", true, false, null, undefined, NaN, [2, 3], { a: 1, b: 2 }];
 
 for (var i = 0; i < types.length; i += 1) {
-    // code here
+    // code here!
 }
 
 
