@@ -111,11 +111,11 @@ var buzz = function (name) {
 
 
 // 17- Which is the function declaration and which the function expression?
-var someFoo = function () {
+var someFoo = function () { //a
     return 8;
 };
 
-function someOtherFoo() {
+function someOtherFoo() { //b
     return 7;
 }
 
